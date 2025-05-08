@@ -64,4 +64,4 @@ The application includes a Random Forest Regressor model that:
 - Uses genre, director, runtime, votes, revenue, and other features
 - Provides feature importance analysis
 - Shows model performance metrics (MSE and R-squared)
-- Visualizes actual vs predicted ratings 
+- Visualizes actual vs predicted ratings
